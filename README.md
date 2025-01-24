@@ -1,6 +1,6 @@
 # Markowitz Optimization and Bank Default Prediction
 
-This repository contains two distinct yet complementary tasks focused on financial analytics and predictive modeling. It demonstrates the application of optimization techniques and machine learning to solve real-world financial problems.
+This repository contains two distinct tasks focused on financial analytics and predictive modeling. It demonstrates the application of optimization techniques and machine learning to solve real-world financial problems.
 
 ---
 
@@ -27,8 +27,8 @@ This task builds a predictive model to identify the likelihood of bank defaults.
 
 ## Repository Structure
 
-- **`task_1_markowitz_optimization.ipynb`**: Contains the code and visualizations for Markowitz optimization with no short-selling constraints, regularization, and rolling window analysis.
-- **`task_2_bank_default_prediction.ipynb`**: Includes the complete pipeline for bank default prediction, from preprocessing to model evaluation.
+- **`Task1.ipynb`**: Contains the code and visualizations for Markowitz optimization with no short-selling constraints, regularization, and rolling window analysis.
+- **`Task2.ipynb`**: Includes the complete pipeline for bank default prediction, from preprocessing to model evaluation.
 
 ---
 
